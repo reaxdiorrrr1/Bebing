@@ -57,6 +57,4 @@ Beneath all the chaos, *Rick and Morty* delivers profound existential questions:
 
 The show doesn’t give easy answers—it embraces absurdity and uncertainty, much like the universe itself.
 
----
 
-*“Wubba Lubba Dub Dub!” — Rick Sanchez*

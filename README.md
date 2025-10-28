@@ -1,5 +1,10 @@
 # Bebing
+
+----
+
 # Rick and Morty — Quick Guide
+
+----
 
 ## Overview
 **Rick and Morty** is an award-winning American animated science-fiction sitcom created by **Justin Roiland** and **Dan Harmon**.  
@@ -9,6 +14,8 @@ It follows the chaotic adventures of **Rick Sanchez**, an eccentric, alcoholic g
 Together, they explore infinite realities across the **multiverse**, encountering bizarre alien worlds, advanced technologies, and moral dilemmas that blur the line between genius and madness.  
 
 While their interdimensional adventures are the show’s main attraction, the real depth comes from its exploration of **family dysfunction**, **free will**, and **the meaning of existence**.
+
+----
 
 ### Main Themes
 
@@ -36,6 +43,8 @@ The series constantly questions morality, asking:
 
 This balance of humor, philosophy, and emotional storytelling makes *Rick and Morty* one of the most complex animated shows ever created.
 
+----
+
 ### Notable Characters
 - **Rick Sanchez** – A genius inventor whose brilliance is rivaled only by his self-destructive tendencies.  
 - **Morty Smith** – A nervous, kind-hearted teen who serves as Rick’s moral compass.  
@@ -43,11 +52,15 @@ This balance of humor, philosophy, and emotional storytelling makes *Rick and Mo
 - **Beth Smith** – Rick’s daughter, a horse surgeon struggling with her father’s influence.  
 - **Jerry Smith** – Beth’s insecure husband, often the target of Rick’s ridicule.
 
+----
+
 ### Iconic Episodes
 1. **Pickle Rick** – Rick transforms himself into a pickle to avoid family therapy, leading to one of the show’s wildest and deepest episodes.  
 2. **Total Rickall** – A parasite invasion causes false memories, testing the family’s trust.  
 3. **The Ricklantis Mixup** – Explores the political and social life of the Citadel of Ricks.  
 4. **The Vat of Acid Episode** – A hilarious yet brutal lesson on consequences and arrogance.
+
+----
 
 ### Philosophy and Meaning
 Beneath all the chaos, *Rick and Morty* delivers profound existential questions:
@@ -57,4 +70,7 @@ Beneath all the chaos, *Rick and Morty* delivers profound existential questions:
 
 The show doesn’t give easy answers—it embraces absurdity and uncertainty, much like the universe itself.
 
+----
 
+# App-Dev
+## My First Repository
